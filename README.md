@@ -17,12 +17,12 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 4.Import DecisionTreeRegressor from sklearn and apply the model on the dataset.
 
 ## Program:
-
+```
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 Developed by: GOUTHAM.K
 RegisterNumber: 212223110019
-*/
+
 
 
 ```py
@@ -55,7 +55,7 @@ plt.figure(figsize=(20, 8))
 plot_tree(dt, feature_names=x.columns, filled=True)
 plt.show() 
 
-
+*/
 ```
 
 ## Output:
