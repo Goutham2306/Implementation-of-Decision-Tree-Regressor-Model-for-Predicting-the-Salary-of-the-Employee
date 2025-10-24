@@ -24,8 +24,6 @@ Developed by: GOUTHAM.K
 RegisterNumber: 212223110019
 
 
-
-```py
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.tree import DecisionTreeClassifier, plot_tree
